@@ -1,0 +1,5 @@
+f = open('ddd.txt')
+
+a = list(f.read().split('\n')).
+
+print(a)
